@@ -1,4 +1,4 @@
-# Welcome to TiktokClone 👋
+# Welcome to TiktokClone 
 
 
 
