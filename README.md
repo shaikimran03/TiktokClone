@@ -1,8 +1,6 @@
 # Welcome to TiktokClone 
 
 
-
-
 Make a web app Like TIKTOK
 
 
