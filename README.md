@@ -5,7 +5,7 @@ Make a web app Like TIKTOK
 
 
 
-
+this is a web appy
 
 ## 💻 Install
 
